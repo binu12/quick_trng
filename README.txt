@@ -1,2 +1,2 @@
 This is GIT training 
-This is second line
+This is 2nd line from release important
